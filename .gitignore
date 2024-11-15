@@ -1,0 +1,6 @@
+**/__pycache__/
+**/checker-venv/
+/output/*
+**/docs/
+**/dropbox_checker.py
+**/input.txt
